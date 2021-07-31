@@ -1,0 +1,59 @@
+{
+	"basics": {
+		"name": "Avijt Singh Yadav",
+		"label": "Student",
+		
+		"phone": "9721090678",
+		"website": "https://github.com/avijitsinghyadav",
+		"summary": "Hi, I'm Avijit Singh Yadav. Currently doing B.Tech at IIIT Kota in Computer Science and Engineering  department. My technical skills is frontend development, Intermediate in Compititive Programming, Good at data structures and algorithms.",
+		"location": {
+			"address": "Near Madhur milan sweet house pukhrayan Kanpur Dehat Uttar Pradesh,209111",
+			"postalCode": "209111",
+			"city": "Kanpur Dehat",
+			"countryCode": "91",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "avijitsinghyadav",
+				"url": "https://github.com/avijitsinghyadav"
+			},
+			{
+				"network": "linkedin",
+				"username": "Avijit Singh Yadav",
+				"url": "https://www.linkedin.com/in/avijit-singh-yadav-4996001a4/"
+
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "01-08-2019",
+		"endDate": "01-07-2023",
+		"gpa": "7.67",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	"skills": [
+        
+            
+        {
+            "level": "Intermediate",
+            "keywords": ["HTML5","CSS","Python"]
+	    },
+        {
+            "level": "Beginner",
+            "keywords": ["C++","Java"]
+	    }
+    ],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Badminton,Swimming"]
+	}],
+	"references": []
+}
